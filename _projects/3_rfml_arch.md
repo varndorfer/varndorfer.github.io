@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Developing RFML intuition: An automatic modulation classification architecture case study
-image: /assets/images/rfml_arch.gif
+image: /assets/images/rfml_arch.png
 category: Conference Paper
 tags:
   - RFML
