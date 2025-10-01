@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Investigating a Spectral Deception Loss Metric for Training Machine Learning-based Evasion Attacks
+title: "Investigating a Spectral Deception Loss Metric for Training Machine Learning-based Evasion Attacks"
 image: /assets/images/loss_func.png
 category: Conference Paper
 tags:
