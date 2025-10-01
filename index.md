@@ -28,11 +28,9 @@ permalink: /
 
 ### Education
 
-![Education Experience 1](/assets/images/grad.webp "graduation cap") MSc in Computer Science and Software Engineering, 2025  
+* MSc in Computer Science and Software Engineering, 2025  
 *University of Washington*
-
-![Education Experience 2](/assets/images/grad.webp "graduation cap") BS in Computer Science, 2020  
+* BS in Computer Science, 2020  
 *Virginia Tech*
-
-![Education Experience 3](/assets/images/grad.webp "graduation cap") BS in Mathematics, 2020  
+* BS in Mathematics, 2020  
 *Virginia Tech*
